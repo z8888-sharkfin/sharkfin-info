@@ -6,7 +6,7 @@
     "systemStatus": "",
     "enableAd": false,
     "notification": {
-        "timestamp": 0,
+        "timestamp": 1,
         "turnOffAfterHours": 24,
         "showCount": 0,
         "fullMode": true,
