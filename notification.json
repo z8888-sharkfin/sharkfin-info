@@ -1,5 +1,6 @@
 {
     "timestamp": 0,
+    "turnOffAfterHours": 24,
     "showCount": 0,
     "fullMode": true,
     "checksum": "checksum",
