@@ -1,6 +1,7 @@
 {
     "checksum": "checksum-1",
     "ip": "34.101.233.47",
+    "serverName": "sharkfin.io.vn",
     "baseUrl": "https://sharkfin.io.vn",
     "status": "up",
     "systemStatus": "",
