@@ -6,6 +6,7 @@
     "status": "up",
     "systemStatus": "",
     "enableAd": false,
+    "limitShowAd": true,
     "notification": {
         "timestamp": 1,
         "turnOffAfterHours": 24,
