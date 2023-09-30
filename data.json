@@ -4,7 +4,7 @@
     "serverName": "sharkfin.io.vn",
     "baseUrl": "https://34.101.233.47",
     "status": "up",
-    "systemStatus": "",
+    "systemStatus": "up",
     "enableAd": false,
     "limitShowAd": true,
     "notification": {
