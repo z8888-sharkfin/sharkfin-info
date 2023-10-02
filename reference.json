@@ -1,0 +1,46 @@
+{
+    "checksum": "checksum-2",
+    "ip": "34.101.40.231",
+    "serverName": "sharkfin.io.vn",
+    "baseUrl": "https://34.101.40.231",
+    "status": "up",
+    "systemStatus": "up",
+    "enableAd": false,
+    "limitShowAd": true,
+    "notification": {
+        "timestamp": 1696216693000,
+        "turnOffAfterHours": 24,
+        "showCount": 0,
+        "fullMode": true,
+        "title": "Sự Kiện",
+        "image":  "https://raw.githubusercontent.com/z8888-sharkfin/sharkfin-info/fff40fddfc0c50090b8891174e20451b6354943b/images/event-oct-23.1.jpg",
+        "content": "",
+        "links_bgc": 4284428674,
+        "links": [
+          {
+            "button": true,
+            "label": "After 15m",
+            "description": "vnexpress.net",
+            "actions": ["clean_cache"],
+            "link":
+                "https://vnexpress.net/viet-nam-de-nghi-brazil-tang-nhap-khau-hang-hoa-4657364.html"
+          },
+          {
+            "color": 4279078612,
+            "button": true,
+            "label": "Update Now",
+            "description": "vnexpress.net",
+            "link":
+                "https://vnexpress.net/viet-nam-de-nghi-brazil-tang-nhap-khau-hang-hoa-4657364.html"
+          },
+          {
+            "color": 4279078612,
+            "button": false,
+            "label": "Update Now",
+            "description": "Bloomberg: Finance Market News",
+            "link":
+                "https://play.google.com/store/apps/details?id=com.bloomberg.android.plus&hl=vi-VN"
+          }
+        ]
+    }
+}
