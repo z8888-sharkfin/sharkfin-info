@@ -1,6 +1,6 @@
 #!/bin/sh
 
-USER=z8888-sharkfin
+USER=z8888.sharkfin@gmail.com
 GKEY=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
 
 log() {
