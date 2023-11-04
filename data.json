@@ -1,27 +1,27 @@
 {
-    "ip": "34.128.79.52",
-    "serverName": "sharkfin.io.vn",
-    "baseUrl": "https://34.128.79.52",
-    "status": "up",
-    "systemStatus": "up",
-    "enableAd": false,
-    "limitShowAd": true,
-    "update": {
-        "version": "v1.0.8",
-        "timestamp": 1696216693000,
-        "forceUpdate": false,
-        "link": "https://play.google.com/store/apps/details?id=sharkfin.io.vn.sharkfin",
-        "details": []
-    },
-    "notification": {
-        "timestamp": 1697277596000,
-        "turnOffAfterHours": 24,
-        "showCount": 0,
-        "fullMode": true,
-        "title": "Lịch Sự Kiện Đáng Chú Ý",
-        "image":  "https://raw.githubusercontent.com/z8888-sharkfin/sharkfin-info/fff40fddfc0c50090b8891174e20451b6354943b/images/event-oct-23.1.jpg",
-        "content": "",
-        "links_bgc": 4284428674,
-        "links": [ ]
-    }
+  "ip": "34.128.79.52",
+  "serverName": "sharkfin.io.vn",
+  "baseUrl": "https://34.128.79.52",
+  "status": "up",
+  "systemStatus": "up",
+  "enableAd": false,
+  "limitShowAd": true,
+  "update": {
+    "version": "1.0.7",
+    "timestamp": 1699086738343,
+    "forceUpdate": false,
+    "link": "https://play.google.com/store/apps/details?id=sharkfin.io.vn.sharkfin",
+    "details": []
+  },
+  "notification": {
+    "timestamp": 1697277596000,
+    "turnOffAfterHours": 24,
+    "showCount": 0,
+    "fullMode": true,
+    "title": "L\u1ecbch S\u1ef1 Ki\u1ec7n \u0110\u00e1ng Ch\u00fa \u00dd",
+    "image": "https://raw.githubusercontent.com/z8888-sharkfin/sharkfin-info/fff40fddfc0c50090b8891174e20451b6354943b/images/event-oct-23.1.jpg",
+    "content": "",
+    "links_bgc": 4284428674,
+    "links": []
+  }
 }
