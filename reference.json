@@ -6,6 +6,17 @@
     "systemStatus": "up",
     "enableAd": false,
     "limitShowAd": true,
+    "update": {
+      "version": "v1.1.5",
+      "timestamp": 1696216693000,
+      "forceUpdate": true,
+      "link": "https://play.google.com/store/apps/details?id=sharkfin.io.vn.sharkfin",
+      "details": [
+        "Feature 1",
+        "Feature 2",
+        "Feature 3"
+      ]
+    },
     "notification": {
         "bgColor": 4278715443,
         "timestamp": 1696216693000,          // in milisecond
@@ -18,13 +29,13 @@
         "titleIconColor": 4293734170,
         "titleIcon": 0,                      // The LineAwesomeIcons icon ID (Set to 0 to use default icon, set to -1 to disable onPress)
         "image":  "https://xxx.jpg",
-        "content": "",                       // HTML content (if  this is empty, then no show)
+        "content": "",                       // HTML content (if this is empty, then no show)
         "contentBackgroundColor": 4294967295,
         "contentTextColor": 4280889796,
         "links_bgc": 4284428674,
         "links": [
           {
-            "button": true,                  // If false ==> text link  button
+            "button": true,                  // If false ==> text link button
             "fullTabButton": true,           // if links length is 1, and this is true ==> Use this as the full tab button
             "label": "After 15m",
             "labelTextColor": 4280889796,
