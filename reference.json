@@ -8,6 +8,8 @@
     "limitShowAd": true,
     "showSlider": true,
     "sliders": [
+      "bet-ad",
+      "dealer-ad"
     ],
     "update": {
       "version": "v1.1.5",
