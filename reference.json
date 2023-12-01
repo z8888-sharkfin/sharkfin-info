@@ -6,6 +6,9 @@
     "systemStatus": "up",
     "enableAd": false,
     "limitShowAd": true,
+    "showSlider": true,
+    "sliders": [
+    ],
     "update": {
       "version": "v1.1.5",
       "timestamp": 1696216693000,
