@@ -9,7 +9,8 @@
   "showSlider": true,
   "sliders": [
     "bet-ad",
-    "dealer-ad"
+    "dealer-ad",
+    "https://github.com/z8888-sharkfin/sharkfin-info/blob/087d1ccd9759149cc72f7e2b6d2e712fa7e02ba1/images/ad-banner-1.png"
   ],
   "update": {
     "version": "1.0.7",
