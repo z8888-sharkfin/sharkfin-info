@@ -55,8 +55,9 @@
     ],
     "update": {
       "version": "1.0.7",
+      "versionToForceUpdate": "1.0.5",
+      "forceUpdate": false,
       "timestamp": 1699089553854,
-      "forceUpdate": true,
       "link": "https://play.google.com/store/apps/details?id=sharkfin.io.vn.sharkfin",
       "details": []
     },
