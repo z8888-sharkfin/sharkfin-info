@@ -8,9 +8,42 @@
     "limitShowAd": true,
     "showSlider": true,
     "sliders": [
-      "bet-ad",
-      "dealer-ad",
-      "https://github.com/z8888-sharkfin/sharkfin-info/blob/087d1ccd9759149cc72f7e2b6d2e712fa7e02ba1/images/ad-banner-1.png?raw=true"
+      {
+        "type": "update",
+        "data": {
+          "link": "https://play.google.com/store/apps/details?id=sharkfin.io.vn.sharkfin",
+          "line1": "Hỗ trợ đặt kèo VNINDEX bằng DOGE coin"
+        }
+      },
+      {
+        "type": "bet-ad",
+        "data": {}
+      },
+      {
+        "type": "dealer-ad",
+        "data": {}
+      },
+      {
+        "type": "png",
+        "data": {
+          "link": "https://raw.githubusercontent.com/z8888-sharkfin/sharkfin-info/main/images/ad-1200x460.png"
+        }
+      },
+      {
+        "type": "png",
+        "data": {
+          "link": "https://raw.githubusercontent.com/z8888-sharkfin/sharkfin-info/main/images/ad-banner-1.png"
+        }
+      },
+      {
+        "type": "attention",
+        "data": {
+          "gif": "",
+          "title": "Hôm nay 22/12/23 - Đáo Hạn Phái Sinh",
+          "subTitle": "Giao dich thận trọng",
+          "line1": "Hỗ trợ đặt kèo VNINDEX bằng DOGE coin"
+        }
+      }
     ],
     "update": {
       "version": "v1.1.5",

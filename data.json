@@ -22,27 +22,6 @@
     {
       "type": "dealer-ad",
       "data": {}
-    },
-    {
-      "type": "png",
-      "data": {
-        "link": "https://raw.githubusercontent.com/z8888-sharkfin/sharkfin-info/main/images/ad-1200x460.png"
-      }
-    },
-    {
-      "type": "png",
-      "data": {
-        "link": "https://raw.githubusercontent.com/z8888-sharkfin/sharkfin-info/main/images/ad-banner-1.png"
-      }
-    },
-    {
-      "type": "attention",
-      "data": {
-        "gif": "",
-        "title": "Hôm nay 22/12/23 - Đáo Hạn Phái Sinh",
-        "subTitle": "Giao dich thận trọng",
-        "line1": "Hỗ trợ đặt kèo VNINDEX bằng DOGE coin"
-      }
     }
   ],
   "update": {
