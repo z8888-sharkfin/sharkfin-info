@@ -9,6 +9,17 @@
     "showSlider": true,
     "sliders": [
       {
+        "type": "external-link",
+        "data": {
+          "buttonLabel": "Go Now",
+          "title": "Hôm nay 22/12/23 - Đáo Hạn Phái Sinh",
+          "subTitle": "Giao dich thận trọng",
+          "line1": "Hỗ trợ đặt kèo VNINDEX bằng DOGE coin",
+          "timestamp": 1701586076,
+          "ttl": 24
+        }
+      },
+      {
         "type": "update",
         "data": {
           "link": "https://play.google.com/store/apps/details?id=sharkfin.io.vn.sharkfin",
