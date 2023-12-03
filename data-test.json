@@ -9,27 +9,6 @@
     "showSlider": true,
     "sliders": [
       {
-        "type": "update",
-        "data": {
-          "link": "https://play.google.com/store/apps/details?id=sharkfin.io.vn.sharkfin",
-          "line1": "Hỗ trợ đặt kèo VNINDEX bằng DOGE coin"
-        }
-      },
-      {
-        "type": "bet-ad",
-        "data": {}
-      },
-      {
-        "type": "dealer-ad",
-        "data": {}
-      },
-      {
-        "type": "png",
-        "data": {
-          "link": "https://raw.githubusercontent.com/z8888-sharkfin/sharkfin-info/main/images/ad-1200x460.png"
-        }
-      },
-      {
         "type": "attention",
         "data": {
           "gif": "",
