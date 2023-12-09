@@ -3,7 +3,7 @@
     "serverName": "sharkfin.io.vn",
     "baseUrl": "https://34.128.79.52",
     "status": "up",
-    "systemStatus": "down",
+    "systemStatus": "up",
     "enableAd": false,
     "limitShowAd": true,
     "showSlider": true,
