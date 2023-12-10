@@ -3,6 +3,7 @@
   "serverName": "sharkfin.io.vn",
   "baseUrl": "https://34.128.79.52",
   "systemStatus": "up",
+  "systemStatusMessage": "Hệ thống đang bảo trì",
   "enableAd": false,
   "limitShowAd": true,
   "showSlider": true,
