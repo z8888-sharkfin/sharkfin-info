@@ -3,7 +3,7 @@
   "serverName": "sharkfin.io.vn",
   "baseUrl": "https://34.128.79.52",
   "systemStatus": "up",
-  "systemStatusMessage": "Hệ thống đang bảo trì",
+  "systemStatusMessage": "Hệ thống đang được bảo trì",
   "enableAd": false,
   "limitShowAd": true,
   "showSlider": true,
@@ -12,7 +12,7 @@
       "type": "update",
       "data": {
         "link": "https://play.google.com/store/apps/details?id=sharkfin.io.vn.sharkfin",
-        "line1": "Hỗ trợ đặt kèo VNINDEX bằng DOGE coin"
+        "line1": "H\u1ed7 tr\u1ee3 \u0111\u1eb7t k\u00e8o VNINDEX b\u1eb1ng DOGE coin"
       }
     },
     {
@@ -25,8 +25,8 @@
     }
   ],
   "update": {
-    "version": "1.0.7",
-    "timestamp": 1699089553854,
+    "version": "1.1.0",
+    "timestamp": 1702179974723,
     "forceUpdate": false,
     "link": "https://play.google.com/store/apps/details?id=sharkfin.io.vn.sharkfin",
     "details": []
