@@ -7,6 +7,49 @@
     "enableAd": false,
     "limitShowAd": true,
     "showSlider": true,
+    "update": {
+      "version": "v1.1.5",
+      "versionToForceUpdate": "1.0.5",
+      "forceUpdate": true,
+      "timestamp": 1696216693000,
+      "link": "https://play.google.com/store/apps/details?id=sharkfin.io.vn.sharkfin",
+      "details": [
+        "Feature 1",
+        "Feature 2",
+        "Feature 3"
+      ]
+    },
+    "notification": {
+        "bgColor": 4278715443,
+        "timestamp": 1696216693000,          // in milisecond
+        "turnOffAfterHours": 24,
+        "showCount": 0,
+        "fullMode": true,
+        "title": "Sự Kiện",
+        "titleBackgroundColor": 4042981347,
+        "titleTextColor": 4280889796,
+        "titleIconColor": 4293734170,
+        "titleIcon": 0,                      // The LineAwesomeIcons icon ID (Set to 0 to use default icon, set to -1 to disable onPress)
+        "image":  "https://xxx.jpg",
+        "content": "",                       // HTML content (if this is empty, then no show)
+        "contentBackgroundColor": 4294967295,
+        "contentTextColor": 4280889796,
+        "links_bgc": 4284428674,
+        "links": [
+          {
+            "button": true,                  // If false ==> text link button
+            "fullTabButton": true,           // if links length is 1, and this is true ==> Use this as the full tab button
+            "label": "After 15m",
+            "labelTextColor": 4280889796,
+            "icon": 61604,                   // The LineAwesomeIcons icon ID (Set to 0 to disable icon)
+            "iconColor": 4280889796,
+            "description": "vnexpress.net",
+            "underline": false,              // Use only for text link button
+            "link": "https://xxx.html",
+            "actions" : ["action_tag"]       // Specify the list of pre-define action tags that will be handled when user press the button.
+          }
+        ]
+    },
     "sliders": [
       {
         "type": "update",
@@ -58,48 +101,5 @@
           "ttl": 24
         }
       }
-    ],
-    "update": {
-      "version": "v1.1.5",
-      "versionToForceUpdate": "1.0.5",
-      "forceUpdate": true,
-      "timestamp": 1696216693000,
-      "link": "https://play.google.com/store/apps/details?id=sharkfin.io.vn.sharkfin",
-      "details": [
-        "Feature 1",
-        "Feature 2",
-        "Feature 3"
-      ]
-    },
-    "notification": {
-        "bgColor": 4278715443,
-        "timestamp": 1696216693000,          // in milisecond
-        "turnOffAfterHours": 24,
-        "showCount": 0,
-        "fullMode": true,
-        "title": "Sự Kiện",
-        "titleBackgroundColor": 4042981347,
-        "titleTextColor": 4280889796,
-        "titleIconColor": 4293734170,
-        "titleIcon": 0,                      // The LineAwesomeIcons icon ID (Set to 0 to use default icon, set to -1 to disable onPress)
-        "image":  "https://xxx.jpg",
-        "content": "",                       // HTML content (if this is empty, then no show)
-        "contentBackgroundColor": 4294967295,
-        "contentTextColor": 4280889796,
-        "links_bgc": 4284428674,
-        "links": [
-          {
-            "button": true,                  // If false ==> text link button
-            "fullTabButton": true,           // if links length is 1, and this is true ==> Use this as the full tab button
-            "label": "After 15m",
-            "labelTextColor": 4280889796,
-            "icon": 61604,                   // The LineAwesomeIcons icon ID (Set to 0 to disable icon)
-            "iconColor": 4280889796,
-            "description": "vnexpress.net",
-            "underline": false,              // Use only for text link button
-            "link": "https://xxx.html",
-            "actions" : ["action_tag"]       // Specify the list of pre-define action tags that will be handled when user press the button.
-          }
-        ]
-    }
+    ]
 }

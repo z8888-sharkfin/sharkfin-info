@@ -4,57 +4,12 @@
     "baseUrl": "https://34.128.79.52",
     "systemStatus": "up",
     "systemStatusMessage": "Hệ thống đang được bảo trì, sẽ khôi phục lại hoạt động từ 18:00 25/12/2023",
+    "enableSharkBetFeature": true,
     "enableAd": false,
     "limitShowAd": true,
     "showSlider": true,
-    "sliders": [
-      {
-        "type": "external-link",
-        "data": {
-          "buttonLabel": "Go Now",
-          "link": "https://play.google.com/store/apps/details?id=sharkfin.io.vn.sharkfin",
-          "title": "Hôm nay 22/12/23 - Đáo Hạn Phái Sinh",
-          "subTitle": "Giao dich thận trọng",
-          "line1": "Hỗ trợ đặt kèo VNINDEX bằng DOGE coin",
-          "timestamp": 1701586076,
-          "ttl": 24
-        }
-      },
-      {
-        "type": "update",
-        "data": {
-          "link": "https://play.google.com/store/apps/details?id=sharkfin.io.vn.sharkfin",
-          "line1": "Hỗ trợ đặt kèo VNINDEX bằng DOGE coin"
-        }
-      },
-      {
-        "type": "bet-ad",
-        "data": {}
-      },
-      {
-        "type": "dealer-ad",
-        "data": {}
-      },
-      {
-        "type": "png",
-        "data": {
-          "link": "https://raw.githubusercontent.com/z8888-sharkfin/sharkfin-info/main/images/ad-1200x460.png"
-        }
-      },
-      {
-        "type": "attention",
-        "data": {
-          "gif": "",
-          "title": "Hôm nay 22/12/23 - Đáo Hạn Phái Sinh",
-          "subTitle": "Giao dich thận trọng",
-          "line1": "Hỗ trợ đặt kèo VNINDEX bằng DOGE coin",
-          "timestamp": 1701586076,
-          "ttl": 24
-        }
-      }
-    ],
     "update": {
-      "version": "1.0.7",
+      "version": "1.1.0",
       "versionToForceUpdate": "1.0.5",
       "forceUpdate": false,
       "timestamp": 1699089553854,
@@ -71,5 +26,15 @@
       "content": "",
       "links_bgc": 4284428674,
       "links": []
-    }
+    },
+    "sliders": [
+      {
+        "type": "bet-ad",
+        "data": {}
+      },
+      {
+        "type": "dealer-ad",
+        "data": {}
+      }
+    ]
   }
