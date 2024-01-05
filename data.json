@@ -4,29 +4,13 @@
   "baseUrl": "https://34.128.79.52",
   "systemStatus": "up",
   "systemStatusMessage": "Hệ thống đang được bảo trì",
+  "enableSharkBetFeature": false,
   "enableAd": false,
   "limitShowAd": true,
   "showSlider": true,
-  "sliders": [
-    {
-      "type": "update",
-      "data": {
-        "link": "https://play.google.com/store/apps/details?id=sharkfin.io.vn.sharkfin",
-        "line1": "H\u1ed7 tr\u1ee3 \u0111\u1eb7t k\u00e8o VNINDEX b\u1eb1ng DOGE coin"
-      }
-    },
-    {
-      "type": "bet-ad",
-      "data": {}
-    },
-    {
-      "type": "dealer-ad",
-      "data": {}
-    }
-  ],
   "update": {
-    "version": "1.1.0",
-    "timestamp": 1702179974723,
+    "version": "2.0.0",
+    "timestamp": 1704461613958,
     "forceUpdate": false,
     "link": "https://play.google.com/store/apps/details?id=sharkfin.io.vn.sharkfin",
     "details": []
@@ -36,10 +20,20 @@
     "turnOffAfterHours": 24,
     "showCount": 0,
     "fullMode": true,
-    "title": "L\u1ecbch S\u1ef1 Ki\u1ec7n \u0110\u00e1ng Ch\u00fa \u00dd",
+    "title": "Lịch Sự Kiện Đáng Chú Ý",
     "image": "https://raw.githubusercontent.com/z8888-sharkfin/sharkfin-info/fff40fddfc0c50090b8891174e20451b6354943b/images/event-oct-23.1.jpg",
     "content": "",
     "links_bgc": 4284428674,
     "links": []
-  }
+  },
+  "sliders": [
+    {
+      "type": "bet-ad",
+      "data": {}
+    },
+    {
+      "type": "dealer-ad",
+      "data": {}
+    }
+  ]
 }
